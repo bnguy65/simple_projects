@@ -2,7 +2,8 @@
 
 Projects in this repo contain mostly html/css and some basic javascript from freeCodeCamp: https://www.freecodecamp.org/learn/
 
-Goal of repo is to create a few static websites, demostrating abilities and knowledge of html/css/js
+Goal of repo is to create a few static websites, demostrating abilities and knowledge of html/css/js, projects created 
+are guided by the website.
 
 1. cat_photo_app - first project created with some simple html that shows cats, check boxes, and lists
 
@@ -10,4 +11,6 @@ Goal of repo is to create a few static websites, demostrating abilities and know
 
 3. markers - third project - created with basic html, and some different css color theory to markers.
 
-4. form - in progress
+4. form - fourth project - created a form page with html, css
+
+
